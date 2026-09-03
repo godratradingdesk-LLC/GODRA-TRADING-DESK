@@ -92,7 +92,7 @@ export default function Home({ onOpenDisclaimer }) {
 
       {/* PLATFORMS & PARTNERS */}
       <div className="platform-links" id="platforms">
-        <div className="platform-label">Official Platforms &amp; Market Data Partners</div>
+        <div className="platform-label">Official Platforms &amp; Market Data Recommendations</div>
         <p className="partners-sub">
           GTD tools are built for these platforms — click a logo to visit the official site.
         </p>
