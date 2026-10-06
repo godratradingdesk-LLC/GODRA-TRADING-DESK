@@ -3,7 +3,7 @@ export const PRODUCTS = {
   'GTD HEDGE ALGO': {
     icon: '🤖',
     file: 'GTD_HedgeAlgo_NT8.zip',
-    stripeUrl: 'https://buy.stripe.com/8x214o8RreNS1GMfcA4Vy01',
+    stripeUrl: 'https://buy.stripe.com/14A14od7H7lq5X21lK4Vy04',
     desc: 'The complete GTD autotrading engine — HedgeAlgo crossover modules, customizable trailing stops, standard indicator signals, and the exclusive Order Manager bonus.',
   },
   'GTD ICT Concepts': {
